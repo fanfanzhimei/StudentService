@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentService</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_student_no">请输入学生学号</string>
+    <string name="str_input_limit">允许输入1-10的数字</string>
+    <string name="str_query">查询</string>
+    <string name="str_should_input">您没有输入任何数字，不能进行查询</string>
+    <string name="str_have_not_result">没有查询到任何结果</string>
+</resources>
